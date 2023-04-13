@@ -1,0 +1,161 @@
+                                     .
+ ________.         ________          :__________            karl*    _____\___.
+_\       |________/       /_________ |        _/________\________   /     \\  |
+_\\      |       /      _/_\ _      \|       /     _     \       \ //      \\ |
+|\\      |     _//     ___/_\\     \ \      //     |     _\     \ \/ /     _\\|
+| \\     :      /      |      \     \     _//      :      \\     \  /|      \\_
+|__\\__________/_______________\____|\_____/_______________\_____|\/ |_______\
+ <:-\-------------------------------------/--------------------------:------:-
+  .                                                                  .      |
+  |     P r o u d l y   P r e s e n t s                                     |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |       Title : Power Rangers: Battle for the Grid (Update v1.6.1)        |
+  |                                                                         |
+  |   Publisher : nWay                        Platform : Nintendo Switch    |
+  |   Developer : nWay Inc.                     Origin : eShop              |
+  |       Genre : Fighting / Action           Title ID : 0100E1E00CF1A800   |
+  :        Date : November 2019                 Format : 25x50MB / NSP      |
+  .__                                                                     //|
+  | /---------------------------------------------------------------------/_:
+  |//                                                                       .
+  |     R e l e a s e   N o t e s                                           |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |   It's Morphin Time! Power Rangers finally comes to Nintendo Switch.    |
+  |   Pit current and classic Rangers like never before in 3 vs. 3 tag      |
+  |   battles.                                                              |
+  |                                                                         |
+  |   A modern take on the 25 year franchise, Power Rangers: Battle for     |
+  |   the Grid showcases stunning graphics and vivid details. Pit current   |
+  |   and classic Rangers and villains like never before in 3 vs. 3 tag     |
+  |   battles. Test your skills online against friends and players from     |
+  |   around the world for endless replayability. A streamlined combat      |
+  |   system welcomes newcomers with simplified controls while              |
+  |   maintaining depth for the most dedicated competitor to learn and      |
+  |   master.                                                               |
+  |                                                                         |
+  |   25 YEARS OF RANGERS.                                                  |
+  |                                                                         |
+  |   Generations of Power Rangers collide across the multiverse's 25       |
+  |   year history. Experience authentic but reimagined Power Rangers       |
+  |   battle sequences like never before.                                   |
+  |                                                                         |
+  |   EASY TO LEARN, HARD TO MASTER.                                        |
+  |                                                                         |
+  |   Power Rangers: Battle for the Grid features traditional fighting      |
+  |   game controls. This easy to learn but hard to master game is          |
+  |   designed to welcome players of all skill levels.                      |
+  |                                                                         |
+  |   Languages: English, French, German, Spanish and Portuguese.           |
+  |                                                                         |
+  |   Update Notes: v1.6.1 (v589824). Firmware 9.0.1 and master key 7.0     |
+  |   are required.                                                         |
+  |                                                                         |
+  |   * Bug Fixes                                                           |
+  |                                                                         |
+  |   * Udonna's Frost Orb no longer causes permanent freeze when hitting   |
+  |     the opponent during their pre-jump state                            |
+  |                                                                         |
+  |   * Quantum Ranger no longer soft locks the game when he's thrown by    |
+  |     Jason                                                               |
+  |                                                                         |
+  |   * Magna Defender's OTG state after his wall bounce hit reaction now   |
+  |     behaves consistently                                                |
+  |                                                                         |
+  |   * Tommy, Drakkon, Udonna: projectile limitations are now correctly    |
+  |     applied and cannot be bypassed with crouch input                    |
+  |                                                                         |
+  |   * Jason                                                               |
+  |                                                                         |
+  |   * Neutral Special (counter) no longer has any super armor             |
+  |     post-counterattack, due to its new mechanics and utility            |
+  |                                                                         |
+  |   * Kat Manx                                                            |
+  |                                                                         |
+  |   * Standing medium hitstun reduced from 33 to 28, with its cancel      |
+  |     window moving up 2 frames earlier, mitigating the effectiveness     |
+  |     of specific ground loop combos                                      |
+  |                                                                         |
+  |   * Standing heavy hitstun reduced from 35 to 30 frames                 |
+  |                                                                         |
+  |   * Magna Defender                                                      |
+  |                                                                         |
+  |   * Fixed a specific hit reaction with EX attack; it now guarantees     |
+  |     the follow-up ground bounce and no longer puts the victim into a    |
+  |     backwards spinning knockdown (after using up all ground bounces,    |
+  |     for instance)                                                       |
+  |                                                                         |
+  |   * Mastodon Sentry                                                     |
+  |                                                                         |
+  |   * Fixed an issue with forward Special (mine) spawning a mine in       |
+  |     mid-air if certain hurtbox conditions are met                       |
+  |                                                                         |
+  |   * Forward Special (close range, button tap) startup reduced by 1f     |
+  |                                                                         |
+  |   * Ranger Slayer                                                       |
+  |                                                                         |
+  |   * Fixed an issue with chaining from nocked high arrows (standing      |
+  |     medium); you can now cancel this attack into standing heavy,        |
+  |     instead of standing heavy 2                                         |
+  |                                                                         |
+  |   * Fixed an issue with nocked forward Special (rising knee): hitbox    |
+  |     and frame data is now consistent with its normal version            |
+  |                                                                         |
+  |   * Nocked forward + medium (slayer rain) now has OTG properties        |
+  |                                                                         |
+  |   * Udonna                                                              |
+  |                                                                         |
+  |   * Ice Spike projectiles (forward Special) can no longer spawn         |
+  |     outside of the arena, making it much more reliable in corner        |
+  |     combos. Damage has been slightly reduced                            |
+  |                                                                         |
+  |   * Super now causes a crumple hit reaction, allowing for follow-up     |
+  |     attacks. Damage has been reduced                                    |
+  |                                                                         |
+  |   * Neutral Special (Frost Orb) juggle limiter penalty reduced          |
+  |     significantly, but is now limited to one per combo (second Frost    |
+  |     Orb hit causes air reset), allowing for lengthier combos off of     |
+  |     stray Frost Orb hits                                                |
+  |                                                                         |
+  |   * Crouching heavy now has OTG properties (limited spinning            |
+  |     knockdown)                                                          |
+  |                                                                         |
+  |   * Shadow Ranger                                                       |
+  |                                                                         |
+  |   * Fixed a specific rear hitbox issue with neutral Special > H ("For   |
+  |     Isinia!"), that extended Shadow's hurtbox way behind him against    |
+  |     certain projectiles                                                 |
+  |                                                                         |
+  |   * Quantum Ranger                                                      |
+  |                                                                         |
+  |   * Fixed an issue with Evasive Gambit > L ("Up Here" teleport)         |
+  |     airblock animation playing incorrectly                              |
+  |                                                                         |
+  |   * Quantum Power crouching heavy (launcher): added a launch            |
+  |     limitation to mitigate effectiveness of specific loop combos        |
+  |                                                                         |
+  |   * Known Issues                                                        |
+  |                                                                         |
+  |   * Certain beam projectiles can be reflected by Shadow Ranger's        |
+  |     forward Special and Goldar's back heavy                             |
+  |                                                                         |
+  |   * While on 2P side (on the right side, facing left), calling an       |
+  |     assist while the opponent is KO'd can cause the assist to face      |
+  |     the incorrect direction. To be fixed in the next update             |
+  :                                                                         |
+  .__                                                                     //|
+  | /---------------------------------------------------------------------/_:
+  |//                                                                       .
+  |     G r e e t i n g s                                                   |
+  |   - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   |
+  |                                                                         |
+  |            Abstrakt . Anthrox . Capital . Caravan . Complex             |
+  |    Dual Crew Shining . Duplex . Echelon . Eurasia . Kalisto . Legacy    |
+  |    Lightforce . Menace . Miracle . Mode 7 . Money . Mystic . Napalm     |
+  |    Nightfall . Oldskool . Paradox . Premiere . Project X . Protocol     |
+  |      Quartex . Quasar . Rising Sun . Scoopex . Sneakers . Triforce      |
+  |                                                                         |
+ -:-------------------------------------------------------------------------:>
+  |                                                                         |
+  .                   VENOM - Mighty Morphin! Since 2001.                   .
